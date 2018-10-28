@@ -1,2 +1,2 @@
 # hello-world
-tutorial to create nre repository
+tutorial to create new repository
